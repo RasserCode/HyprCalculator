@@ -1,0 +1,12 @@
+[package]
+name = "hyprcalculator"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny floating calculator for Hyprland"
+license = "MIT"
+repository = "https://github.com/yourusername/hyprcalculator"
+keywords = ["calculator", "hyprland", "rust", "egui"]
+categories = ["gui", "mathematics"]
+
+[dependencies]
+eframe = "0.28"
