@@ -59,10 +59,6 @@ Add to `~/.config/hypr/hyprland.conf`:
 ```conf
 # Floating Calculator
 bind = SUPER, C, exec, HyprCalculator
-
-windowrulev2 = float,title:^(Rust Calculator)$
-windowrulev2 = center,title:^(Rust Calculator)$
-windowrulev2 = size 460 200,title:^(Rust Calculator)$
 ```
 
 Reload Hyprland (usually Hyprland auto-reloads):
